@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Ardiansyah! 👋
 
-// ![Profile Views](https://) - Coming Soon
+``` ![Profile Views](https://) - Coming Soon ```
 
 I'm a passionate developer with a love for building scalable and efficient applications. I was 7+ years as a Full Stack Web Developer.
 
