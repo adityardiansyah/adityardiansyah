@@ -34,7 +34,7 @@ I'm always open to collaborating on exciting projects or discussing new ideas. F
 - 📧 Email: [adityasyah.mail@gmail.com](mailto:adityasyah.mail@gmail.com)
 - 💼 LinkedIn: [Aditya Ardiansyah](https://www.linkedin.com/in/aditya-ardiansyah/)
 - 📝 Medium: [Aditya Ardiansyah](https://medium.com/@adityasyah)
-- 🌐 Website: [Aditya Ardiansyah](https://my-portfolio-beta-orpin-29.vercel.app/)
+- 🌐 Website: [Aditya Ardiansyah](https://aditya-ardiansyah-dev.vercel.app/)
 - 💻 GitHub: [Aditya Ardiansyah](https://github.com/adityardiansyah)
 ---
 
